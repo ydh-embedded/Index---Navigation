@@ -1,4 +1,4 @@
-# Index---Naviagtion
+# Index---Navigation
 
 
 
