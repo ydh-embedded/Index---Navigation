@@ -78,7 +78,7 @@ _________________________
 
 
 | c# - Type |  .NET-Framework-Typ | Größe |
-| ... | ... | ... |
+| --- | --- | --- |
 | sbyte  |  System.SByte      | -128 bis + 127 |
 | byte    |  System.Byte       |      0 bis + 255 |
 | char    |  System.Char       | U+0000 bis U+ffff |
