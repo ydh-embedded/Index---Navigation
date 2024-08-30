@@ -89,7 +89,7 @@ _________________________
 | long      |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
 | ulong     |  System.UInt64     |      0 bis +18.446.744.073.709.551.615 |
 
-| c# - Type |  Range | Genauigkeit |
+| c# - Type |  Range der Gleitkommazahlen | Genauigkeit |
 | --- | --- | --- |
 | float     |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
 | double    |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
