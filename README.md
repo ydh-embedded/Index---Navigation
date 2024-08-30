@@ -77,14 +77,20 @@ _________________________
 #### Dateitype in cSharp
 
 
-| c# - Type |  .NET-Framework-Typ | Größe |
+| c# - Type |  .NET-Framework-Typ | Größe der Ganzzahlenwerte |
 | --- | --- | --- |
-| sbyte  |  System.SByte      | -128 bis + 127 |
-| byte    |  System.Byte       |      0 bis + 255 |
-| char    |  System.Char       | U+0000 bis U+ffff |
-| short   |  System.Int16       |  -32768 bis +32767 | 
-| ushort |  System.UInt16   | 0 bis +65535 |
+| sbyte     |  System.SByte      |   -128 bis + 127  |
+| byte      |  System.Byte       |      0 bis + 255  |
+| char      |  System.Char       | U+0000 bis U+ffff |
+| short     |  System.Int16      | -32768 bis +32767 | 
+| ushort    |  System.UInt16     |      0 bis +65535 |
 | int       |  System.Int32      | -2.147.483.648 bis +2.147.483.647 |
-| uint     |  System.UInt32   | 0 bis +4.294.967.295 |
-| long    |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
-| ulong  |  System.UInt64     |  0 bis +18.446.744.073.709.551.615 |
+| uint      |  System.UInt32     |      0 bis +4.294.967.295 |
+| long      |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
+| ulong     |  System.UInt64     |      0 bis +18.446.744.073.709.551.615 |
+
+| c# - Type |  Range | Genauigkeit |
+| --- | --- | --- |
+| float     |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
+| double    |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
+| decimal   |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
