@@ -74,7 +74,7 @@ ___________
 
 _________________________
 
-#### Dateitype in cSharp
+#### elementare Dateitypen in cSharp
 
 
 | c# - Type |  .NET-Framework-Typ | Größe der Ganzzahlenwerte |
@@ -94,3 +94,7 @@ _________________________
 | float     |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
 | double    |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
 | decimal   |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
+
+| c# - Type |  Wert 1 | wert 2 |
+| --- | --- | --- |
+| bool      | true | false |
