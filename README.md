@@ -71,3 +71,20 @@ ___________
 | Jira     | [[Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 | gitHUB     | [[Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 | GitLab     | [[Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
+
+_________________________
+
+#### Dateitype in cSharp
+
+
+| c# - Type |  .NET-Framework-Typ | Größe |
+| ... | ... | ... |
+| sbyte  |  System.SByte      | -128 bis + 127 |
+| byte    |  System.Byte       |      0 bis + 255 |
+| char    |  System.Char       | U+0000 bis U+ffff |
+| short   |  System.Int16       |  -32768 bis +32767 | 
+| ushort |  System.UInt16   | 0 bis +65535 |
+| int       |  System.Int32      | -2.147.483.648 bis +2.147.483.647 |
+| uint     |  System.UInt32   | 0 bis +4.294.967.295 |
+| long    |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
+| ulong  |  System.UInt64     |  0 bis +18.446.744.073.709.551.615 |
