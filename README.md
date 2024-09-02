@@ -9,9 +9,16 @@
  - [ ] Falls Ihr den Fehler 404 Seite nicht gefunden bekommt sind die Seiten leider im privaten Repository gelandet 
  - [ ] Verwendet die Beispiele gerne als Anregung aber nicht als fertige Lösung, da dies nicht Ziel dieser Dokumentation ist! 
  - [ ] Beginnt neue Aufgaben und setzt euch Ziele - Das Internet bietet euch Wege diese zu erreichen
- - [ ] Macht Fehler und bleibt am Ball nur daraus lernt man  
+ - [ ] Macht Fehler und bleibt am Ball nur daraus lernt man 
+ 
   
 </div>
+
+____________
+
+- [ ] digitale Bildungsplattform Potsdam [[Link to Website]](https://open.hpi.de/)
+- [ ] Online Video Kurse [[Link to Website]](https://www.udemy.com/)
+- [ ] Online Certification [[Link to Website]](https://www.sololearn.com/de/)
 
 ____________
 
