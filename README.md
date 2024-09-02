@@ -18,9 +18,9 @@ ____________
 
 ## WebSites Empfehlungen
 
-- [ ] *hpi* digitale Bildungsplattform Potsdam [[Link to Website]](https://open.hpi.de/)
-- [ ] *udemy* Online Video Kurse [[Link to Website]](https://www.udemy.com/)
-- [ ] *sololearn* Online Certification [[Link to Website]](https://www.sololearn.com/de/)
+- [ ] *hpi* - digitale Bildungsplattform Potsdam [[Link to Website]](https://open.hpi.de/)
+- [ ] *udemy* - Online Video Kurse [[Link to Website]](https://www.udemy.com/)
+- [ ] *sololearn* - Online Certification [[Link to Website]](https://www.sololearn.com/de/)
 
 ____________
 
