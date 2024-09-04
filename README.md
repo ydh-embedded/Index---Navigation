@@ -34,7 +34,7 @@ ____________
 | Python-3.7.16     | [[Privat Link to PDF]](https://github.com/ydh-embedded/2024-Summary/blob/main/Backend/Python-3.7.16/docs/PDF/2024-07-11---Pyenv-python-enviromental.pdf)  | [[ ... ]](https://github.com/ydh-embedded/2024-Summary/tree/main/Backend/Python-3.7.16/docs)   | [[Privat Link to CodeSnippeds]](https://github.com/ydh-embedded/2024-Summary/tree/main/Backend/Python-3.7.16/docs)   |
 | Python     | [[Privat Link to PDF]](https://github.com/ydh-embedded/2024-Summary/blob/main/Backend/Python/docs/PDF/2024-07-12---Conda.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/2024-Summary/blob/main/Backend/Python/docs/md/2024-06-28%20Python.md)   | [[ ... ]]()   |
 | SQL-Beginners     | [[Privat Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
-| cSharp-Beginners     | [[Link to PDF]](...)  | [[Link to Markdown Files]](https://github.com/ydh-embedded/cSharp-Beginner/tree/main)   | [[Privat Link to Screenshots]](...)   |
+| cSharp-Beginners     | [[...]](...)  | [[Link to Markdown Files]](https://github.com/ydh-embedded/cSharp-Beginner/tree/main)   | [[...]](...)   |
 
 ____________
 
