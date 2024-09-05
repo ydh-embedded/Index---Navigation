@@ -112,6 +112,6 @@ _________________________
 
 | c# - .NET |  Terminal Befehle | (base) PS C:\working-directory\cSharp-Beginner\beginner\Social_Network_XP35>   | Ausgabe   |
 | --- | --- | --- | --- |
-|      | `bash  dotnet --version `  |  | 8.0.401 |
-|      | `bash  dotnet new console --framework net8.0 --use-program-main --force`  |  | [...] |
-|      | `bash  dotnet run `  |  |  |
+|      | dotnet --version   |  | 8.0.401 |
+|      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
+|      | dotnet run  |  |  |
