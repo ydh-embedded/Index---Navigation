@@ -109,3 +109,7 @@ _________________________
 | c# - Type | Prefix |  Wert 1 | wert 2 |
 | --- | --- | --- | --- |
 | bool      | bVariable | true | false |
+
+| c# - .NET |   |   |   |
+| --- | --- | --- | --- |
+| bool      | bVariable | true | false |
