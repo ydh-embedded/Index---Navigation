@@ -25,6 +25,39 @@ ____________
 
 ____________
 
+#### elementare Dateitypen in cSharp
+
+
+| c# - Type | Prefix |  .NET-Framework-Typ | Größe der Ganzzahlenwerte |
+| --- | --- | --- | --- |
+| sbyte     |  |  System.SByte      |   -128 bis + 127  |
+| byte      |  |  System.Byte       |      0 bis + 255  |
+| char      | cVariable |  System.Char       | U+0000 bis U+ffff |
+| short     |  |  System.Int16      | -32768 bis +32767 | 
+| ushort    |  |  System.UInt16     |      0 bis +65535 |
+| int       | iVariable |  System.Int32      | -2.147.483.648 bis +2.147.483.647 |
+| uint      |  |  System.UInt32     |      0 bis +4.294.967.295 |
+| long      |  |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
+| ulong     |  |  System.UInt64     |      0 bis +18.446.744.073.709.551.615 |
+
+| c# - Type | Prefix |  Range der Gleitkommazahlen | Genauigkeit |
+| --- | --- | --- | --- |
+| float     | fVariable |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
+| double    | dVariable |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
+| decimal   |  |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
+
+| c# - Type | Prefix |  Wert 1 | wert 2 |
+| --- | --- | --- | --- |
+| bool      | bVariable | true | false |
+
+| c# - .NET |  Terminal Befehle | (base) PS C:\working-directory\cSharp-Beginner\beginner\Social_Network_XP35>   | Ausgabe   |
+| --- | --- | --- | --- |
+|      | dotnet --version   |  | 8.0.401 |
+|      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
+|      | dotnet run  |  |  |
+
+_________________________
+
 ## Backend
   
 | Kapitel | PDF | Markdown | PRG |
@@ -83,35 +116,6 @@ ___________
 | gitHUB     | [[Privat Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 | GitLab     | [[Privat Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 
-_________________________
-
-#### elementare Dateitypen in cSharp
 
 
-| c# - Type | Prefix |  .NET-Framework-Typ | Größe der Ganzzahlenwerte |
-| --- | --- | --- | --- |
-| sbyte     |  |  System.SByte      |   -128 bis + 127  |
-| byte      |  |  System.Byte       |      0 bis + 255  |
-| char      | cVariable |  System.Char       | U+0000 bis U+ffff |
-| short     |  |  System.Int16      | -32768 bis +32767 | 
-| ushort    |  |  System.UInt16     |      0 bis +65535 |
-| int       | iVariable |  System.Int32      | -2.147.483.648 bis +2.147.483.647 |
-| uint      |  |  System.UInt32     |      0 bis +4.294.967.295 |
-| long      |  |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
-| ulong     |  |  System.UInt64     |      0 bis +18.446.744.073.709.551.615 |
 
-| c# - Type | Prefix |  Range der Gleitkommazahlen | Genauigkeit |
-| --- | --- | --- | --- |
-| float     | fVariable |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
-| double    | dVariable |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
-| decimal   |  |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
-
-| c# - Type | Prefix |  Wert 1 | wert 2 |
-| --- | --- | --- | --- |
-| bool      | bVariable | true | false |
-
-| c# - .NET |  Terminal Befehle | (base) PS C:\working-directory\cSharp-Beginner\beginner\Social_Network_XP35>   | Ausgabe   |
-| --- | --- | --- | --- |
-|      | dotnet --version   |  | 8.0.401 |
-|      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
-|      | dotnet run  |  |  |
