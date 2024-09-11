@@ -54,6 +54,7 @@ ____________
 | --- | --- | --- | --- |
 |      | dotnet --version   |  | 8.0.401 |
 |      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
+|      | && dotnet --version > dotnet_version.md | [dotnet_version.md] |
 |      | dotnet run  |  |  |
 
 _________________________
