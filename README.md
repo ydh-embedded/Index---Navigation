@@ -18,11 +18,17 @@ ____________
 
 ## WebSites Empfehlungen
 
-- [ ] *w3* - WebSite Validierung [[Link to Website]](https://validator.w3.org/)
-- [ ] *w3* - CSS Validierung [[Link to Website]](https://jigsaw.w3.org/css-validator/)
+
 - [ ] *udemy* - Online Video Kurse [[Link to Website]](https://www.udemy.com/)
 - [ ] *sololearn* - Online Certification [[Link to Website]](https://www.sololearn.com/de/)
 - [ ] *readly* - Online Magazine [[Link to Website]](https://de.readly.com/)
+
+- [ ] *w3* - WebSite Validierung [[Link to Website]](https://validator.w3.org/)
+- [ ] *w3* - CSS Validierung [[Link to Website]](https://jigsaw.w3.org/css-validator/)
+
+- [ ] *vTiger* - Costumer Relationship Management CRM für KMU und StartUps[[Link to Website]](https://www.vtiger.com/de/)
+
+
 
 ____________
 
