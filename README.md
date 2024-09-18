@@ -63,8 +63,7 @@ ____________
 |      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
 |      | && dotnet --version > dotnet_version.md | [dotnet_version.md] |
 |      | dotnet run  |  |  |
-|      | dotnet run --verbosity detailed 2> Bug.md
-grep "error" Bug.md > Bug_error.md |  |  |
+|      | dotnet run --verbosity detailed 2> Bug.md grep "error" Bug.md > Bug_error.md |  |  |
 
 _________________________
 
