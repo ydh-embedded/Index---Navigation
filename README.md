@@ -61,7 +61,7 @@ ____________
 | --- | --- | --- | --- |
 |      | dotnet --version   |  | 8.0.401 |
 |      | dotnet new console --framework net8.0 --use-program-main --force  |  | [...] |
-|      | && dotnet --version > dotnet_version.md | [dotnet_version.md] |
+|      | && dotnet --version > dotnet_version.md |  | [dotnet_version.md] |
 |      | dotnet run  |  |  |
 |      | | "& 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe' 16_Bug_Report.csproj /t:Rebuild /fileLoggerParameters:'LogFile=Bug_Errors.md;Verbosity=Diagnostic;Encoding=UTF-8'" | [Bug_Errors.md] |
 
