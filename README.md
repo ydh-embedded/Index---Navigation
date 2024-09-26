@@ -35,27 +35,27 @@ ____________
 #### elementare Dateitypen in cSharp
 
 
-| c# - Type | Prefix |  .NET-Framework-Typ | Größe der Ganzzahlenwerte |
-| --- | --- | --- | --- |
-| sbyte     |  |  System.SByte      |   -128 bis + 127  |
-| byte      |  |  System.Byte       |      0 bis + 255  |
-| char      | cVariable |  System.Char       | U+0000 bis U+ffff |
-| short     |  |  System.Int16      | -32768 bis +32767 | 
-| ushort    |  |  System.UInt16     |      0 bis +65535 |
-| int       | iVariable |  System.Int32      | -2.147.483.648 bis +2.147.483.647 |
-| uint      |  |  System.UInt32     |      0 bis +4.294.967.295 |
-| long      |  |  System.Int64      | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
-| ulong     |  |  System.UInt64     |      0 bis +18.446.744.073.709.551.615 |
+| c# - Type | Prefix |  .NET-Framework-Typ | runtime enviromental allocates | Größe der Ganzzahlenwerte |
+| --- | --- | --- | --- | --- |
+| sbyte     |  |  System.SByte       | [8bits]  |   -128 bis + 127  | 
+| byte      |  |  System.Byte        | [8bits]  |     0 bis + 255   |
+| char      | cVariable |System.Char | [16bits]  | U+0000 bis U+ffff |
+| short     |  |  System.Int16       | [16bits] | -32768 bis +32767 | 
+| ushort    |  |  System.UInt16      | [16bits] |     0 bis +65535  |
+| int       | iVariable |System.Int32| [32bits] |-2.147.483.648 bis +2.147.483.647 |
+| uint      |  |  System.UInt32      | [32bits] |      0 bis +4.294.967.295        |
+| long      |  |  System.Int64       | [64bits] | -9.223.372.036.854.775.808 bis +9.223.372.036.854.775.807 |
+| ulong     |  |  System.UInt64      | [64bits] |     0 bis +18.446.744.073.709.551.615 |
 
-| c# - Type | Prefix |  Range der Gleitkommazahlen | Genauigkeit |
-| --- | --- | --- | --- |
-| float     | fVariable |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
-| double    | dVariable |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
-| decimal   |  |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
+| c# - Type | Prefix | runtime enviromental allocates |  Range der Gleitkommazahlen | Genauigkeit |
+| --- | --- | --- | --- | --- |
+| float     | fVariable | [32bits] |  -3,4x10^38 bis 3,4x10^38      |       7 Stellen nach dem Komma  |
+| double    | dVariable | [64bits] |  5x10^-324 bis 1,7x10^308      |   15-16 Stellen nach dem Komma  |
+| decimal   |  | [128bits] |  -1,0x10^-28 bis +7,9x10^28    |   28-29 Stellen nach dem Komma  |
 
-| c# - Type | Prefix |  Wert 1 | wert 2 |
-| --- | --- | --- | --- |
-| bool      | bVariable | true | false |
+| c# - Type | Prefix | runtime enviromental allocates |  Wert 1 | wert 2 |
+| --- | --- | --- | --- | --- |
+| bool      | bVariable | [8bits]  | true | false |
 
 | .NET |  Terminal Befehle | (base) PS C:\working-directory\cSharp-Beginner\beginner\Social_Network_XP35>   | Ausgabe   |
 | --- | --- | --- | --- |
