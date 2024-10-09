@@ -6,7 +6,7 @@
 
  - [ ] Hallo Freunde der Technik.
    anbei findet Ihr Beispiele zu den Kursen und Modulen die ich an der "iad" in Erfurt absolviert habe
- - [ ] Falls Ihr den Fehler 404 Seite nicht gefunden bekommt sind die Seiten leider im privaten Repository gelandet 
+ - [ ] Falls Ihr den Fehler "404 Seite nicht gefunden" bekommt sind die Seiten leider im privaten Repository gelandet 
  - [ ] Verwendet die Beispiele gerne als Anregung aber nicht als fertige Lösung, da dies nicht Ziel dieser Dokumentation ist! 
  - [ ] Beginnt neue Aufgaben und setzt euch Ziele - Das Internet bietet euch Wege diese zu erreichen
  - [ ] Macht Fehler und bleibt am Ball nur daraus lernt man 
