@@ -32,7 +32,7 @@ ____________
 ____________
 
 
-  [Cert](./JPEG/cert.jpg)
+  ![Cert](./JPEG/cert.jpg)
 
 
 
