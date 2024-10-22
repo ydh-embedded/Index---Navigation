@@ -97,6 +97,7 @@ ____________
 | React     | [[ ... ]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 | Type-Script     | [[ ... ]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
 | svg     | [[Privat Link to PDF]](https://github.com/ydh-embedded/Scrum/blob/main/docs/PDF/2024-08-05---vorgehensmodelle.pdf)  | [[Privat Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   | [[Privat Link to Screenshots]](https://github.com/ydh-embedded/Scrum/blob/main/docs/screens/)   |
+| jquery     |  | [[Link to Markdown Files]](https://github.com/ydh-embedded/Scrum/blob/main/docs/md/2024-08-05---vorgehensmodelle.md)   |    |
 
 ___________
 
