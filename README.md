@@ -147,7 +147,7 @@ ____________
 
 ## 📁 Repository-Übersicht
 ---
-
+```
 ## 📚 Projektstruktur
 
 ├── 📁 Python-Compiler/
@@ -155,7 +155,7 @@ ____________
 ├── 📁 Web-Development/
 ├── 📁 Dokumentation/
 └── 📄 README.md
-
+```
 ### 🎯 Hauptprojekte
 
 | Repository | Beschreibung | Technologie | Status | Link |
