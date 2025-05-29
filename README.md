@@ -148,12 +148,31 @@ ____________
 ## 📁 Repository-Übersicht
 ---
 
-## 📚 Projektstruktur
+## 📁 Projektstruktur
+
+### 🗂️ Hauptkategorien
+
+| Kategorie | Beschreibung |
+|-----------|--------------|
+| **Python-Compiler** | Python-Entwicklung |
+| **C# Projekte** | .NET Anwendungen |
+| **Markdown** | Dokumentation |
+
+<details>
+<summary><strong>📂 Vollständige Projektstruktur</strong></summary>
+
 ```
+Index---Navigation/
 ├── 📁 Python-Compiler/
-├── 📁 C#-Projekte/
-├── 📁 Web-Development/
-├── 📁 Dokumentation/
+│   ├── 📄 compiler_examples.py
+│   └── 📄 README.md
+├── 📁 CSharp-Projects/
+│   ├── 📁 Social_Network_XP35/
+│   ├── 📁 Bug_Reports/
+│   └── 📄 dotnet_version.md
+├── 📁 Documentation/
+│   ├── 📄 datatypes_reference.md
+│   └── 📄 terminal_commands.md
 └── 📄 README.md
 ```
 ### 🎯 Hauptprojekte
