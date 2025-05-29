@@ -1,4 +1,5 @@
-### 🎨 Frontend Repositories
+<details>
+<summary><strong>### 🎨 Frontend Repositories</strong></summary>
 
 | Repository | Beschreibung | Technologien | Features | Status | Link |
 |------------|--------------|--------------|----------|--------|------|
@@ -10,16 +11,21 @@
 | **bootstrap-components** | Bootstrap Komponenten | Bootstrap, SCSS | Custom Components | 🔄 In Arbeit | [📂 Repo](#) |
 | **vue-learning** | Vue.js Lernprojekte | Vue.js, Vuex | SPA, Routing | 🔄 In Arbeit | [📂 Repo](#) |
 | **sass-styleguide** | SASS/SCSS Style Guide | SASS/SCSS | Mixins, Variables | ✅ Fertig | [📂 Repo](#) |
+</details>
 
-#### 🛠️ Frontend-Tools & Utilities
+<details>
+<summary><strong>#### 🛠️ Frontend-Tools & Utilities</strong></summary>
 
 | Tool | Zweck | Technologie | Link |
 |------|-------|-------------|------|
 | **webpack-config** | Build-Konfiguration | Webpack, Babel | [📂 Repo](#) |
 | **eslint-config** | Code Quality Setup | ESLint, Prettier | [📂 Repo](#) |
 | **npm-scripts** | Automatisierte Tasks | NPM Scripts | [📂 Repo](#) |
+</details>
 
-#### 📱 Frontend-Projekte nach Kategorie
+<details>
+<summary><strong>#### 📱 Frontend-Projekte nach Kategorie</strong></summary>
+
 
 **🎯 Landing Pages**
 - Modern Business Landing Page → [📂 Repo](#)
@@ -36,6 +42,7 @@
 - Design System → [📂 Repo](#)
 - Animation Playground → [📂 Repo](#)
 
+</details>
 ---
 
 # 🎓 Index & Navigation - Kurse
@@ -70,8 +77,8 @@ gh repo list ydh-embedded
 ```
 
 ---
-
-## 🔗 Nützliche Online-Ressourcen
+<details>
+<summary><strong>## 🔗 Nützliche Online-Ressourcen</strong></summary>
 
 | Plattform | Beschreibung | Link |
 |-----------|--------------|------|
@@ -81,6 +88,7 @@ gh repo list ydh-embedded
 | **W3C Validator** | HTML Validierung | [🌐 Zur Website](https://validator.w3.org/) |
 | **W3C CSS Validator** | CSS Validierung | [🌐 Zur Website](https://jigsaw.w3.org/css-validator/) |
 | **vTiger CRM** | Customer Relationship Management | [🌐 Zur Website](https://www.vtiger.com/de/) |
+</details>
 
 ---
 
@@ -145,18 +153,17 @@ ____________
 
 ---
 
-## 📁 Repository-Übersicht
----
-
 ## 📁 Projektstruktur
 
-### 🗂️ Hauptkategorien
+<details>
+<summary><strong>### 🗂️ Hauptkategorien</strong></summary>
 
 | Kategorie | Beschreibung |
 |-----------|--------------|
 | **Python-Compiler** | Python-Entwicklung |
 | **C# Projekte** | .NET Anwendungen |
 | **Markdown** | Dokumentation |
+</details>
 
 <details>
 <summary><strong>📂 Vollständige Projektstruktur</strong></summary>
@@ -175,7 +182,11 @@ Index---Navigation/
 │   └── 📄 terminal_commands.md
 └── 📄 README.md
 ```
-### 🎯 Hauptprojekte
+</details>
+
+
+<details>
+<summary><strong>### 🎯 Hauptprojekte</strong></summary>
 
 | Repository | Beschreibung | Technologie | Status | Link |
 |------------|--------------|-------------|--------|------|
@@ -183,7 +194,11 @@ Index---Navigation/
 | **ydh-embedded** | Profil-Repository | - | ✅ Aktiv | [📂 Repo](https://github.com/ydh-embedded/ydh-embedded) |
 </details>
 
-### ⚙️ Backend Repositories
+
+
+
+<details>
+<summary><strong>### ⚙️ Backend Repositories</strong></summary>
 
 | Repository | Beschreibung | Technologien | Features | Status | Link |
 |------------|--------------|--------------|----------|--------|------|
@@ -196,7 +211,11 @@ Index---Navigation/
 | **logging-middleware** | Logging & Monitoring | C#, Serilog, Application Insights | Request Logging, Error Tracking | ✅ Fertig | [📂 Repo](#) |
 | **caching-strategies** | Performance Optimization | C#, Redis, Memory Cache | Distributed Caching | 🔄 In Arbeit | [📂 Repo](#) |
 
-#### 🗃️ Datenbank-Projekte
+</details>
+
+
+<details>
+<summary><strong>#### 🗃️ Datenbank-Projekte</strong></summary>
 
 | Repository | Beschreibung | Technologie | Schwerpunkt | Link |
 |------------|--------------|-------------|-------------|------|
@@ -205,15 +224,21 @@ Index---Navigation/
 | **mongodb-integration** | NoSQL Datenbank Integration | MongoDB, C# Driver | Document Store, Aggregation | [📂 Repo](#) |
 | **database-migrations** | Migration Scripts Sammlung | EF Core, FluentMigrator | Schema Updates, Rollbacks | [📂 Repo](#) |
 
-#### 🔧 Backend-Tools & Utilities
+</details>
+
+<details>
+<summary><strong>#### 🔧 Backend-Tools & Utilities</strong></summary>
+
 
 | Tool | Zweck | Technologie | Link |
 |------|-------|-------------|------|
 | **api-testing-collection** | Postman/Insomnia Collections | REST, GraphQL | [📂 Repo](#) |
 | **docker-configurations** | Container Setup | Docker, Docker Compose | [📂 Repo](#) |
 | **deployment-scripts** | Automatisierte Deployments | PowerShell, Bash | [📂 Repo](#) |
+</details>
 
-#### 🏗️ Backend-Projekte nach Architektur
+<details>
+<summary><strong>#### 🏗️ Backend-Projekte nach Architektur</strong></summary>
 
 **🎯 Monolithische Anwendungen**
 - Enterprise CRM System → [📂 Repo](#)
@@ -235,9 +260,10 @@ Index---Navigation/
 - Report Generator → [📂 Repo](#)
 - Analytics Dashboard API → [📂 Repo](#)
 
+</details>
 
-
-### 🎓 Kurs-spezifische Repositories
+<details>
+<summary><strong>### 🎓 Kurs-spezifische Repositories</strong></summary>
 
 | Kurs/Modul | Repository Name | Technologie | Semester | Link |
 |------------|-----------------|-------------|----------|------|
@@ -245,34 +271,44 @@ Index---Navigation/
 | **Web-Entwicklung** | web-dev-projects | HTML/CSS/JS | SS 2024 | [📂 Repo](#) |
 | **Datenbanken** | database-basics | SQL/MySQL | WS 2024/25 | [📂 Repo](#) |
 | **Software Engineering** | software-eng | C#/.NET | SS 2025 | [📂 Repo](#) |
+</details>
 
-### 🔧 Tools & Utilities
+<details>
+<summary><strong>### 🔧 Tools & Utilities</strong></summary>
 
 | Tool | Zweck | Sprache | Typ | Link |
 |------|-------|---------|-----|------|
 | **Config Files** | Entwicklungsumgebung | Various | Config | [📂 Repo](#) |
 | **Scripts** | Automatisierung | Bash/PowerShell | Tools | [📂 Repo](#) |
 | **Templates** | Projekt-Vorlagen | Various | Templates | [📂 Repo](#) |
+</details>
 
-### 📊 Repository-Statistiken
+<details>
+<summary><strong>### 📊 Repository-Statistiken</strong></summary>
+
 
 ```
 Gesamtanzahl Repositories: [Anzahl]
 Hauptsprachen: C#, Python, JavaScript, HTML/CSS
 Letzte Aktivität: [Datum]
 ```
+</details>
 
 ---
 
-## 🤝 Beitrag leisten
+<details>
+<summary><strong>## 🤝 Beitrag leisten</strong></summary>
 
 Haben Sie Verbesserungsvorschläge oder gefunden Fehler? 
 - 🐛 [Issue erstellen](../../issues)
 - 🔀 [Pull Request senden](../../pulls)
 
+</details>
+
 ---
 
-## 📞 Kontakt
+<details>
+<summary><strong>## 📞 Kontakt</strong></summary>
 
 Bei Fragen zu den Projekten oder Kursinhalten können Sie gerne Kontakt aufnehmen.
 
@@ -281,11 +317,15 @@ Bei Fragen zu den Projekten oder Kursinhalten können Sie gerne Kontakt aufnehme
 *Letzte Aktualisierung: $(date)*
 
 Feedback und Verbesserungsvorschläge sind willkommen! Öffnet gerne ein Issue oder sendet einen Pull Request.
+</details>
 
-## 📄 Lizenz
+
+<details>
+<summary><strong>## 📄 Lizenz</strong></summary>
 
 Dieses Repository dient Bildungszwecken. Bitte verwendet die Inhalte verantwortungsvoll.
 
 ---
 
 **Happy Coding! 🚀**
+</details>
