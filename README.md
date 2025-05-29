@@ -1,3 +1,43 @@
+### 🎨 Frontend Repositories
+
+| Repository | Beschreibung | Technologien | Features | Status | Link |
+|------------|--------------|--------------|----------|--------|------|
+| **portfolio-website** | Persönliche Portfolio-Seite | HTML, CSS, JS | Responsive Design | ✅ Live | [📂 Repo](#) |
+| **react-dashboard** | Admin Dashboard Interface | React, CSS3 | Components, State Management | 🔄 In Arbeit | [📂 Repo](#) |
+| **vanilla-js-projects** | Pure JavaScript Projekte | HTML, CSS, Vanilla JS | DOM Manipulation, Events | ✅ Fertig | [📂 Repo](#) |
+| **css-animations** | CSS Animation Sammlung | CSS3, SCSS | Keyframes, Transitions | ✅ Fertig | [📂 Repo](#) |
+| **responsive-layouts** | Responsive Design Templates | HTML, CSS, Grid/Flexbox | Mobile-First Design | ✅ Fertig | [📂 Repo](#) |
+| **bootstrap-components** | Bootstrap Komponenten | Bootstrap, SCSS | Custom Components | 🔄 In Arbeit | [📂 Repo](#) |
+| **vue-learning** | Vue.js Lernprojekte | Vue.js, Vuex | SPA, Routing | 🔄 In Arbeit | [📂 Repo](#) |
+| **sass-styleguide** | SASS/SCSS Style Guide | SASS/SCSS | Mixins, Variables | ✅ Fertig | [📂 Repo](#) |
+
+#### 🛠️ Frontend-Tools & Utilities
+
+| Tool | Zweck | Technologie | Link |
+|------|-------|-------------|------|
+| **webpack-config** | Build-Konfiguration | Webpack, Babel | [📂 Repo](#) |
+| **eslint-config** | Code Quality Setup | ESLint, Prettier | [📂 Repo](#) |
+| **npm-scripts** | Automatisierte Tasks | NPM Scripts | [📂 Repo](#) |
+
+#### 📱 Frontend-Projekte nach Kategorie
+
+**🎯 Landing Pages**
+- Modern Business Landing Page → [📂 Repo](#)
+- Creative Agency Website → [📂 Repo](#)
+- E-Commerce Homepage → [📂 Repo](#)
+
+**⚡ Interactive Apps**
+- Weather App (API Integration) → [📂 Repo](#)
+- Todo List (Local Storage) → [📂 Repo](#)
+- Quiz Application → [📂 Repo](#)
+
+**🎨 UI/UX Experiments**
+- Component Library → [📂 Repo](#)
+- Design System → [📂 Repo](#)
+- Animation Playground → [📂 Repo](#)
+
+---
+
 # 🎓 Index & Navigation - Kurse
 
 > **Hinweis:** Diese Repository enthält Beispiele und Materialien aus meinen Kursen an der "iad" in Erfurt.  
@@ -114,14 +154,59 @@ ____________
 | **Index---Navigation** | Kurs-Navigation und Referenzen | Markdown | ✅ Aktiv | [📂 Repo](https://github.com/ydh-embedded/Index---Navigation) |
 | **ydh-embedded** | Profil-Repository | - | ✅ Aktiv | [📂 Repo](https://github.com/ydh-embedded/ydh-embedded) |
 
-### 💻 Öffentliche Repos
+### ⚙️ Backend Repositories
 
-| Repository | Beschreibung | Hauptsprache | Schwierigkeitsgrad | Link |
-|------------|--------------|--------------|-------------------|------|
-| **C# Grundlagen** | C# Einführungsprojekte | C# | 🟢 Beginner | [📂 Repo](#) |
-| **Web Development** | Frontend/Backend Projekte | HTML/CSS/JS | 🟡 Intermediate | [📂 Repo](#) |
-| **Python Scripts** | Automation & Tools | Python | 🟢 Beginner | [📂 Repo](#) |
-| **Database Projects** | SQL & NoSQL Projekte | SQL | 🟡 Intermediate | [📂 Repo](#) |
+| Repository | Beschreibung | Technologien | Features | Status | Link |
+|------------|--------------|--------------|----------|--------|------|
+| **dotnet-api-core** | RESTful API mit .NET Core | C#, .NET Core, EF Core | JWT Auth, Swagger, CRUD | ✅ Fertig | [📂 Repo](#) |
+| **csharp-web-api** | ASP.NET Web API Projekte | C#, ASP.NET, SQL Server | MVC Pattern, Entity Framework | 🔄 In Arbeit | [📂 Repo](#) |
+| **database-integration** | Datenbank-Anbindungen | C#, MySQL, PostgreSQL | ORM, Migrations, Seeding | ✅ Fertig | [📂 Repo](#) |
+| **microservices-demo** | Microservices Architektur | C#, Docker, RabbitMQ | Service Communication | 🔄 In Arbeit | [📂 Repo](#) |
+| **authentication-service** | User Authentication System | C#, Identity, JWT | Login, Register, Roles | ✅ Fertig | [📂 Repo](#) |
+| **file-upload-api** | File Management Service | C#, Azure Storage | Upload, Download, Validation | ✅ Fertig | [📂 Repo](#) |
+| **logging-middleware** | Logging & Monitoring | C#, Serilog, Application Insights | Request Logging, Error Tracking | ✅ Fertig | [📂 Repo](#) |
+| **caching-strategies** | Performance Optimization | C#, Redis, Memory Cache | Distributed Caching | 🔄 In Arbeit | [📂 Repo](#) |
+
+#### 🗃️ Datenbank-Projekte
+
+| Repository | Beschreibung | Technologie | Schwerpunkt | Link |
+|------------|--------------|-------------|-------------|------|
+| **sql-server-scripts** | SQL Server Datenbank Scripts | T-SQL, SSMS | Stored Procedures, Views | [📂 Repo](#) |
+| **mysql-examples** | MySQL Beispiele & Übungen | MySQL, Workbench | Normalisierung, Indexing | [📂 Repo](#) |
+| **mongodb-integration** | NoSQL Datenbank Integration | MongoDB, C# Driver | Document Store, Aggregation | [📂 Repo](#) |
+| **database-migrations** | Migration Scripts Sammlung | EF Core, FluentMigrator | Schema Updates, Rollbacks | [📂 Repo](#) |
+
+#### 🔧 Backend-Tools & Utilities
+
+| Tool | Zweck | Technologie | Link |
+|------|-------|-------------|------|
+| **api-testing-collection** | Postman/Insomnia Collections | REST, GraphQL | [📂 Repo](#) |
+| **docker-configurations** | Container Setup | Docker, Docker Compose | [📂 Repo](#) |
+| **deployment-scripts** | Automatisierte Deployments | PowerShell, Bash | [📂 Repo](#) |
+
+#### 🏗️ Backend-Projekte nach Architektur
+
+**🎯 Monolithische Anwendungen**
+- Enterprise CRM System → [📂 Repo](#)
+- E-Commerce Backend → [📂 Repo](#)
+- Content Management API → [📂 Repo](#)
+
+**⚡ Microservices**
+- User Management Service → [📂 Repo](#)
+- Payment Processing Service → [📂 Repo](#)
+- Notification Service → [📂 Repo](#)
+
+**🔌 API Integrationen**
+- Third-Party API Wrapper → [📂 Repo](#)
+- Webhook Handler → [📂 Repo](#)
+- Data Synchronization Service → [📂 Repo](#)
+
+**📊 Data Processing**
+- ETL Pipeline → [📂 Repo](#)
+- Report Generator → [📂 Repo](#)
+- Analytics Dashboard API → [📂 Repo](#)
+
+
 
 ### 🎓 Kurs-spezifische Repositories
 
