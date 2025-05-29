@@ -1,4 +1,4 @@
-# 🎓 Index & Navigation - iad Erfurt Kurse
+# 🎓 Index & Navigation - Kurse
 
 > **Hinweis:** Diese Repository enthält Beispiele und Materialien aus meinen Kursen an der "iad" in Erfurt.  
 > ⚠️ Bei einem "404 Fehler" befinden sich die Repositories möglicherweise im privaten Bereich.
