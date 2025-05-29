@@ -147,9 +147,9 @@ ____________
 
 ## 📁 Repository-Übersicht
 ---
-```
-## 📚 Projektstruktur
 
+## 📚 Projektstruktur
+```
 ├── 📁 Python-Compiler/
 ├── 📁 C#-Projekte/
 ├── 📁 Web-Development/
