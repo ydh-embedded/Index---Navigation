@@ -146,6 +146,16 @@ ____________
 ---
 
 ## 📁 Repository-Übersicht
+---
+
+## 📚 Projektstruktur
+
+```
+├── 📁 Python-Compiler/
+├── 📁 C#-Projekte/
+├── 📁 Web-Development/
+├── 📁 Dokumentation/
+└── 📄 README.md
 
 ### 🎯 Hauptprojekte
 
@@ -250,3 +260,13 @@ Bei Fragen zu den Projekten oder Kursinhalten können Sie gerne Kontakt aufnehme
 ---
 
 *Letzte Aktualisierung: $(date)*
+
+Feedback und Verbesserungsvorschläge sind willkommen! Öffnet gerne ein Issue oder sendet einen Pull Request.
+
+## 📄 Lizenz
+
+Dieses Repository dient Bildungszwecken. Bitte verwendet die Inhalte verantwortungsvoll.
+
+---
+
+**Happy Coding! 🚀**
