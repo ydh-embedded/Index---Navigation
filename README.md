@@ -181,6 +181,7 @@ Index---Navigation/
 |------------|--------------|-------------|--------|------|
 | **Index---Navigation** | Kurs-Navigation und Referenzen | Markdown | ✅ Aktiv | [📂 Repo](https://github.com/ydh-embedded/Index---Navigation) |
 | **ydh-embedded** | Profil-Repository | - | ✅ Aktiv | [📂 Repo](https://github.com/ydh-embedded/ydh-embedded) |
+</details>
 
 ### ⚙️ Backend Repositories
 
