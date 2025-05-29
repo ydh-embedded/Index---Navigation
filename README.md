@@ -150,7 +150,6 @@ ____________
 
 ## 📚 Projektstruktur
 
-```
 ├── 📁 Python-Compiler/
 ├── 📁 C#-Projekte/
 ├── 📁 Web-Development/
