@@ -1,4 +1,18 @@
 <details>
+<summary><strong>### 📱 App-Projekte</strong></summary>
+
+
+**🎯 Kalkulationen**
+- Steuer Kalkulation html -> Thüringen '25 → [📂 Repo](#)
+
+**⚡ .NET Maui**
+- Steuer Kalkulation C# -> Thüringen '25 → [📂 Repo](#)
+
+</details>
+
+
+
+<details>
 <summary><strong>### 🎨 Frontend Repositories</strong></summary>
 
 | Repository | Beschreibung | Technologien | Features | Status | Link |
