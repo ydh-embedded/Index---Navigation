@@ -3,10 +3,10 @@
 
 
 **🎯 Kalkulationen**
-- Steuer Kalkulation html -> Thüringen '25 → [📂 Repo](#)
+- Steuer Kalkulation html -> Thüringen '25 → [📂 Repo](#https://github.com/ydh-embedded/steuer-calc)
 
 **⚡ .NET Maui**
-- Steuer Kalkulation C# -> Thüringen '25 → [📂 Repo](#)
+- Steuer Kalkulation C# -> Thüringen '25 → [📂 Repo](#https://github.com/ydh-embedded/App-C-)
 
 </details>
 
