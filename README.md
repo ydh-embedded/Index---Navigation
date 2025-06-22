@@ -35,6 +35,8 @@
 | **webpack-config** | Build-Konfiguration | Webpack, Babel | [📂 Repo](#) |
 | **eslint-config** | Code Quality Setup | ESLint, Prettier | [📂 Repo](#) |
 | **npm-scripts** | Automatisierte Tasks | NPM Scripts | [📂 Repo](#) |
+| **Live-Server-Python** | schlanker Live-Server | Python3 | [📂 Repo](https://github.com/ydh-embedded/Live-Server-python) |
+
 </details>
 
 <details>
